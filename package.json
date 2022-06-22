@@ -25,7 +25,7 @@
     "discord-player": "^5.0.0-dev.29489940b64b555e2e791dcf0662bd2d93a22ef6",
     "discord.js": "^13.0.0-dev.5842e35.1625011425",
     "dotenv": "^8.2.0",
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.7",
     "express": "^4.17.1",
     "ffmpeg-static": "^4.3.0",
     "mathjs": "^9.4.2",
